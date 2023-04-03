@@ -1,0 +1,29 @@
+#Header {
+    color:blue;
+    text-align:center;
+}
+#Click{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+#para
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+  color:aqua;
+
+}
+#onclickk
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+  color:darkmagenta;
+}
+
+
