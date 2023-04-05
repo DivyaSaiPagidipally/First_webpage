@@ -1,0 +1,1 @@
+This is Simple Webpage.It includes onclick function.
